@@ -2,7 +2,7 @@
 
 I Like Programming as well as Rhythm Games!
 
-My current (main) project: Soon!
+My current (main) project: https://github.com/RenderingByte/Aspect
 
 Some Socials:
 <br>
