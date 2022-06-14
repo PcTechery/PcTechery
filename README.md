@@ -2,7 +2,7 @@
 
 I Like Programming as well as Rhythm Games!
 
-My current (main) project: https://github.com/RenderingByte/Aspect
+My current (main) project: https://github.com/RenderingByte/Astral
 
 Some Socials:
 <br>
